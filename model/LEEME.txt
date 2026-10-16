@@ -1,0 +1,6 @@
+Coloca aquí el archivo del modelo entrenado:
+
+    model/modelo_final.keras      (copia de M1_cnn_lr1e-3.keras, desde Drive: Ev2_models/)
+
+class_names.json ya está incluido (orden alfabético, igual que class_to_idx del notebook).
+Si tu notebook generó otro orden, reemplázalo por el class_names.json que exportaste.

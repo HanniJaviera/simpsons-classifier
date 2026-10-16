@@ -1,0 +1,6 @@
+# IMPORTANTE: fija aquí la MISMA versión de TensorFlow/Keras con que se entrenó en Colab
+# (en el notebook: print(tf.__version__, keras.__version__)) y reemplaza la línea de abajo.
+tensorflow>=2.16
+streamlit>=1.50
+pillow
+numpy
