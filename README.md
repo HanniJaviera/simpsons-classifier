@@ -13,13 +13,13 @@ simpsons-classifier/
 ├── Dockerfile
 ├── docker-compose.yml
 └── model/
-    ├── modelo_final.keras   # copiar desde el notebook / Drive (no incluido)
+    ├── modelo_final.keras   
     └── class_names.json
 ```
 
 ## 1. Colocar el modelo
 
-Copia `M1_cnn_lr1e-3.keras` (Drive → `Ev2_models/`) a `model/modelo_final.keras`.
+`model/modelo_final.keras`.
 
 ## 2. Ejecutar sin Docker
 
